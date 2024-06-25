@@ -2,7 +2,7 @@
 /**
 *main - Entry point
 *
-*Description: print lowercase and uppercase 
+*Description: print lowercase and uppercase
 *alphabitical character using while loop
 *
 *Return: Always 0 (Success)
