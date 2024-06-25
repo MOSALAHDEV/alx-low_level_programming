@@ -2,7 +2,8 @@
 /**
 *main - Entry point
 *
-*Description: print lowercase and uppercase  alphabitical character using while loop
+*Description: print lowercase and uppercase 
+*alphabitical character using while loop
 *
 *Return: Always 0 (Success)
 */
@@ -20,7 +21,8 @@ ch = 'A';
 while (ch <= 'Z')
 {
 putchar (ch);
-ch++;}
+ch++;
+}
 putchar('\n');
 return (0);
 }
