@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
 *main - Entry point
-* 
+*
 *Description: print lowercase alphabitical character using while loop
 *
-*Return: Always 
+*Return: Always
 */
 int main(void)
 {
