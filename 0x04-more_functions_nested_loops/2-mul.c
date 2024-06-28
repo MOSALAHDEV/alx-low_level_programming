@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *mul - multiplies 2 digits
+*
 *@a: digit to be multiplied
 *@b: digit to be multipied 
 *
