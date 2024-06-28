@@ -3,7 +3,7 @@
 *mul - multiplies 2 digits
 *
 *@a: digit to be multiplied
-*@b: digit to be multipied 
+*@b: digit to be multipied
 *
 *Return: the value of a*b
 */
