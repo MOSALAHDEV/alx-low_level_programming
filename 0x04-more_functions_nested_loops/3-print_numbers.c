@@ -2,8 +2,9 @@
 /**
  *print_numbers - print numbers from 0 to 9
  *followed by a new line
- *@c: characters to be print
- *Return: void
+ *
+ *void: numbers to be print
+ *
  */
 void print_numbers(void)
 {
