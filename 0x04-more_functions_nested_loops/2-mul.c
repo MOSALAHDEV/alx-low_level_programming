@@ -1,10 +1,10 @@
 #include "main.h"
 /**
 *mul - multiplies 2 digits
-*@a: digits to be multiplied
+*@a: digit to be multiplied
 *@b: digit to be multipied 
 *
-*Return: a*b
+*Return: the value of a*b
 */
 int mul(int a, int b)
 {
