@@ -1,8 +1,9 @@
 #include "main.h"
 /**
 *print_numbers - prints numbers followed by a new line
+*using _puthchar twice
 *
-*Return: void
+*Return: Always 0 (Success)
 */
 void print_numbers(void)
 {
