@@ -4,7 +4,7 @@
  *@a: first intiger
  *@b: second intiger
  *
- *return: sum a + b
+ *Return: (sum)
  */
 int add(int a, int b)
 {
