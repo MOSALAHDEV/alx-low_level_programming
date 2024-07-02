@@ -2,8 +2,7 @@
 #include <string.h>
 /**
  *_strlen - function determines the length of a string
- *
- *
+ *@s: is the pointer to first character in the string
  */
 int _strlen(char *s)
 {
