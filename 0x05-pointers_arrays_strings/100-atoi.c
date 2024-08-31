@@ -19,6 +19,17 @@ int _atoi(char *s)
 		else if (*s >= '0' && *s <= '9')
 		{
 			r = r * 10 + (*s - '0');
+			if (r > 2147483647)
+			{
+				if (sign == 1)
+				{
+					return (2147483647);
+				}
+				else
+				{
+					return (-2147483647);
+				}
+			}
 		}
 		else if (r > 0)
 		{
